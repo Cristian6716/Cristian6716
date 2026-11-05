@@ -10,12 +10,10 @@ Sviluppatore full-stack e AI. Costruisco prodotti web e mobile dall'idea alla pr
 |---|---|---|
 | [Pyva](https://pyva.it) · co-founder | Gestionale per partite IVA forfettarie, online con utenti reali: imposte, fatture elettroniche via SDI, OCR dei documenti, assistente AI con tool | Next.js, TypeScript, Supabase, Stripe, API OpenAI |
 | [Klomo](https://klomo.it) · co-founder | Viaggi su misura: un agente su Claude con ricerca web trasforma il brief del cliente in un dossier di viaggio, con revisione umana prima dell'invio | Next.js, API Anthropic, Supabase |
-| [Storyamo](https://storyamo.it) | E-commerce di libri personalizzati, migrato da Shopify | Next.js, Supabase, Stripe |
 | Seleos | Gestionale per personal trainer, web e app: abbonamenti, Stripe Connect, fatturazione SDI | Expo, Supabase, Stripe |
-| PTAI | Personal trainer e mental coach AI, web e app | Next.js, Expo, API Anthropic |
-| LibroAdvisor | Consigli di lettura con ricerca semantica | Supabase, pgvector |
+| [Sovraccarico](https://sovraccarico.vercel.app) · progetto personale | Diario per seguire i miei allenamenti, con doppia progressione automatica; funziona offline | Next.js, IndexedDB, PWA |
 
-Il codice di questi prodotti è privato: lo mostro volentieri in una call.
+Il codice di questi progetti è privato: lo mostro volentieri in una call.
 
 In questo profilo trovi i miei progetti di dati del 2024: [Projects](https://github.com/Cristian6716/Projects) e [Portfolio](https://github.com/Cristian6716/Portfolio).
 
